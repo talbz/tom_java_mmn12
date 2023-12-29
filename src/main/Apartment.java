@@ -1,3 +1,4 @@
+// comments
 public class Apartment {
 
     int _noOfRooms;
